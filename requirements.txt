@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text_splitters
+langchain-huggingface
+pypdf
+pymupdf
+ipykernel
+langchain-chroma
+sentence-transformers
