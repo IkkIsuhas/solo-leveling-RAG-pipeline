@@ -9,3 +9,6 @@ pymupdf
 ipykernel
 langchain-chroma
 sentence-transformers
+langgraph
+tavily-python 
+langchain_tavily
